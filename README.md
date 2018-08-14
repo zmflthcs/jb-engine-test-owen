@@ -3,4 +3,6 @@ show user headlines as card format = 3 hours
 
 Make drop down button by vuetify and inside button, user can click sources. = 2 hours
 
-Filter headlines by filter that user clicked = 2 hours
+Filter headlines by filter that user clicked = 1 hours
+
+take many times because of css vuetify
