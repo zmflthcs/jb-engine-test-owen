@@ -1,16 +1,6 @@
-# jb-engine-test
+Make api call to get headlines, sources and store it in vuex.
+show user headlines as card format = 3 hours
 
-## Project setup
-```
-npm install
-```
+Make drop down button by vuetify and inside button, user can click sources. = 2 hours
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+Filter headlines by filter that user clicked = 2 hours
